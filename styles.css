@@ -12,5 +12,9 @@
 	color: white;
 	padding-top: 20vh;
 	font-size: 5em;
+}
 
+.img-frontpage {
+	width: 33vw;
+	height: 33vw;
 }

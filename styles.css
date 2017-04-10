@@ -7,3 +7,10 @@
   background-size: cover;
   background-position: bottom left;
 }
+
+.banner-txt {
+	color: white;
+	padding-top: 20vh;
+	font-size: 5em;
+
+}

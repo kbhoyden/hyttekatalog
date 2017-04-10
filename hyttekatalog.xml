@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+
+<hyttekatalog>
+
+	<fjellhytta>
+		<bilde></bilde>
+		<beliggenhet>Oppdal</beliggenhet>
+		<utleieperioden>Hele året</utleieperioden>
+		<kjøkken>Tekjøkken</kjøkken>
+		<strøm>Ja</strøm>
+		<innlagtvann>Ja</innlagtvann>
+		<dusj>Ja</dusj>
+		<antallsenger>5</antallsenger>
+		<hytteside></hytteside>
+	</fjellhytta>
+	<fjellhytta>
+		<bilde></bilde>
+		<beliggenhet>Nerskogen</beliggenhet>
+		<utleieperioden>Hele året</utleieperioden>
+		<kjøkken>Komfyr og ovn</kjøkken>
+		<strøm>Ja</strøm>
+		<innlagtvann>Ja</innlagtvann>
+		<dusj>Ja</dusj>
+		<antallsenger>4</antallsenger>
+		<hytteside></hytteside>
+	</fjellhytta>
+
+	<sjøhytta>
+		<bilde></bilde>
+		<beliggenhet></beliggenhet>
+		<utleieperioden></utleieperioden>
+		<kjøkken></kjøkken>
+		<strøm></strøm>
+		<innlagtvann></innlagtvann>
+		<dusj></dusj>
+		<antallsenger></antallsenger>
+		<hytteside></hytteside>
+	</sjøhytta>
+	<skogshytta>
+		<bilde></bilde>
+		<beliggenhet></beliggenhet>
+		<utleieperioden></utleieperioden>
+		<kjøkken></kjøkken>
+		<strøm></strøm>
+		<innlagtvann></innlagtvann>
+		<dusj></dusj>
+		<antallsenger></antallsenger>
+		<hytteside></hytteside>
+	</skogshytta>
+	<skogshytta>
+		<bilde></bilde>
+		<beliggenhet></beliggenhet>
+		<utleieperioden></utleieperioden>
+		<kjøkken></kjøkken>
+		<strøm></strøm>
+		<innlagtvann></innlagtvann>
+		<dusj></dusj>
+		<antallsenger></antallsenger>
+		<hytteside></hytteside>
+	</skogshytta>
+
+
+<fjellhytta>
+		<bilde></bilde>
+		<beliggenhet></beliggenhet>
+		<utleieperioden></utleieperioden>
+		<kjøkken></kjøkken>
+		<strøm></strøm>
+		<innlagtvann></innlagtvann>
+		<dusj></dusj>
+		<antallsenger></antallsenger>
+		<hytteside></hytteside>
+	</fjellhytta>
+	<sjøhytta>
+		<bilde></bilde>
+		<beliggenhet></beliggenhet>
+		<utleieperioden></utleieperioden>
+		<kjøkken></kjøkken>
+		<strøm></strøm>
+		<innlagtvann></innlagtvann>
+		<dusj></dusj>
+		<antallsenger></antallsenger>
+		<hytteside></hytteside>
+	</sjøhytta>
+
+
+</hyttekatalog>
